@@ -1,0 +1,60 @@
+%!Adobe-FontList 1.23
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:/Users/ml5-jackson/Documents/DIGITAL MEDIA/GWDS/2022_2023/Semester 2/BOOTSTRAP5COMPONENTS_WORKSHEET Folder/Document fonts/AdobeFnt23.lst
+FileLength:1523
+FileModTime:668532692
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Courier
+FamilyName:Courier
+StyleName:Regular
+MenuName:Courier
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Courier
+WritingScript:Roman
+OutlineFileName:/Users/ml5-jackson/Documents/DIGITAL MEDIA/GWDS/2022_2023/Semester 2/BOOTSTRAP5COMPONENTS_WORKSHEET Folder/Document fonts/Courier.dfont
+DataFormat:sfntResource
+ResourceID:24011
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:1649525
+FileModTime:668532692
+NameArray:0,Mac,4,Courier
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Regular
+FamilyName:Minion Pro
+StyleName:Regular
+MenuName:Minion Pro
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Minion Pro
+WritingScript:Roman
+OutlineFileName:/Users/ml5-jackson/Documents/DIGITAL MEDIA/GWDS/2022_2023/Semester 2/BOOTSTRAP5COMPONENTS_WORKSHEET Folder/Document fonts/MinionPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:218640
+FileModTime:665053717
+DesignSize:110
+NameArray:0,Mac,4,Minion Pro
+NameArray:0,Win,1,Minion Pro
+%EndFont
+
